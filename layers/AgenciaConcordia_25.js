@@ -1,0 +1,1 @@
+var json_AgenciaConcordia_25 = {"type":"FeatureCollection","name":"AgenciaConcordia_25","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"localidad":"Concordia","entidad":"RENATRE (propio)","direccion":"Catamarca 136"},"geometry":{"type":"Point","coordinates":[-58.015403917861228,-31.395364070595392]}}]}
